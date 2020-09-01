@@ -100,9 +100,9 @@ def run(directory):
         except:
             pass
     if pre:
-        print("\n---\n")
+        print("\n---")
         gigaMegaSolver(equations2,formulas2,available,bad)
-        print("---\n")
+        print("\n---\n")
     else:
         print("None found.")
     if len(available) >= 2:
