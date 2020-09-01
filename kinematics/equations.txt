@@ -1,0 +1,13 @@
+F = m*a
+W = F*dx
+W = P*t
+vf = vi + a*t
+dx = vi*t + .5*a*t**2
+vf**2 = vi**2 + 2*a*dx
+a = (v**2)/r
+p = m*v
+m1*v1i + m2*v2i = m1*v1f + m2*v2f
+dp = F*dt
+KE = .5*m*v**2
+U = m*g*h
+TME = U + KE
